@@ -1,1 +1,1 @@
-# threejs_rocker_space
+# threejs：摇杆控制摄像头移动
